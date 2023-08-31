@@ -29,6 +29,4 @@ public class Goods {
     public String getManufacturer() {
         return manufacturer;
     }
-
-
 }
